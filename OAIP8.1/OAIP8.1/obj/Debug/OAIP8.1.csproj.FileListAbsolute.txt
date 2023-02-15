@@ -1,0 +1,11 @@
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.csproj.AssemblyReference.cache
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8._1.Form1.resources
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8._1.Properties.Resources.resources
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.csproj.GenerateResource.cache
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.csproj.CoreCompileInputs.cache
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\bin\Debug\OAIP8.1.exe.config
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\bin\Debug\OAIP8.1.exe
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\bin\Debug\OAIP8.1.pdb
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.exe
+C:\Users\Puchindoo\source\repos\Labi\ОАИП(предмет)\OAIP8.1\OAIP8.1\obj\Debug\OAIP8.1.pdb
